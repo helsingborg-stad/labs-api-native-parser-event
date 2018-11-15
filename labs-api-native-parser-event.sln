@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "labs-api-native-parser-event", "labs-api-native-parser-event\labs-api-native-parser-event.njsproj", "{D4D30A08-6806-4BDF-B76A-5E8414F77BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4D30A08-6806-4BDF-B76A-5E8414F77BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D30A08-6806-4BDF-B76A-5E8414F77BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D30A08-6806-4BDF-B76A-5E8414F77BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D30A08-6806-4BDF-B76A-5E8414F77BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34DAF367-F979-4062-A147-BAFD32DC5491}
+	EndGlobalSection
+EndGlobal
